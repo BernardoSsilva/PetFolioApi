@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfolio.API", "Petfolio.API\Petfolio.API.csproj", "{0B58832E-A121-4DEB-BB28-31BF47E58430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfolio.Communication", "Petfolio.Communication\Petfolio.Communication.csproj", "{BB0407B1-0358-42AC-BE57-57FACDEC9598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfolio.Application", "Petfolio.Application\Petfolio.Application.csproj", "{4B983D2E-A385-4863-9DA4-34E38ACF9AE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0B58832E-A121-4DEB-BB28-31BF47E58430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B58832E-A121-4DEB-BB28-31BF47E58430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B58832E-A121-4DEB-BB28-31BF47E58430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0407B1-0358-42AC-BE57-57FACDEC9598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0407B1-0358-42AC-BE57-57FACDEC9598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0407B1-0358-42AC-BE57-57FACDEC9598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0407B1-0358-42AC-BE57-57FACDEC9598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B983D2E-A385-4863-9DA4-34E38ACF9AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B983D2E-A385-4863-9DA4-34E38ACF9AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B983D2E-A385-4863-9DA4-34E38ACF9AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B983D2E-A385-4863-9DA4-34E38ACF9AE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
